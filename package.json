@@ -1,0 +1,22 @@
+{
+  "name": "espaco-silvana-lima",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/bodoni-moda": "^5.3.0",
+    "@fontsource/cormorant-garamond": "^5.1.0",
+    "@fontsource/instrument-sans": "^5.3.0",
+    "@fontsource/manrope": "^5.1.0",
+    "gsap": "^3.12.0",
+    "lucide": "^0.460.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

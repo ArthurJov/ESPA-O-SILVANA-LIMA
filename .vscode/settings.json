@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.mount": [
+    ["/images", "/public/images"],
+    ["/vendor", "/public/vendor"],
+    ["/favicon.svg", "/public/favicon.svg"]
+  ]
+}
